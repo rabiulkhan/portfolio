@@ -1,0 +1,30 @@
+add to nav work area:
+ add,delete,edit
+your work field(text)
+description(textArea)
+
+education::
+ add,delete,edit
+school/ college/ uni name(text)
+exam name/subject(text)
+starting year(date)
+ending year(date)
+
+project:
+ add,delete,edit
+name(text)
+description(textarea)
+duration(text)
+
+skill:
+ add,delete,edit
+name(text)
+percentage(number)
+
+general settings and system setting will be just like aunok.com
+
+add to navigation:
+ add,delete,edit
+research(name[text],description[textarea],starting time(date),ending time(date))
+
+contact(as like aunok.com)
